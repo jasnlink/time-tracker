@@ -1,6 +1,6 @@
 # time_tracker
 ## Goal and purpose
-A system that allows employers to track their employees' work time or for event organisers to track attendance. The employee scans a geolocated QR code when entering or leaving and the app logs and calculates work hours. This data can be sent straight to HR for processing payroll. Managers can know right away if someone did not come in or was late for work thanks to time sheet tracking.
+A system that allows employers to track their employees' work time or for event organisers to track attendance. The employee scans a geolocated QR code when entering or leaving the workplace and the app logs and calculates work hours. This data can be sent straight to HR for processing payroll. Managers can know right away if someone did not come in or was late for work thanks to time sheet tracking.
 
 
 ## DB Planning
